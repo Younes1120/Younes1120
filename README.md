@@ -20,7 +20,7 @@ Welcome to my data-driven world! I'm a highly skilled professional with a passio
 
 ### Education
 
-- 🎓 McCombs School of Business, The University of Texas at Austin (UT Austin)
+- 🎓 Data Analytics Boot Camp, McCombs School of Business, The University of Texas at Austin (UT Austin)
 - 🎓 High School Diploma, Marrakech Technical School
 - 🎓 Associate Degree in Web Design, OFFPT Marrakech
 
